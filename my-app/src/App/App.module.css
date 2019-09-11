@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  margin: 0;
+  padding: 0;
+  padding-top: 30px;
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  background-color: #f0f3f6;
+  padding: 0 92px;
+}

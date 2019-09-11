@@ -1,0 +1,28 @@
+.transactionHistory {
+  width: 870px;
+  margin: 0 auto;
+}
+
+th {
+  width: 290px;
+  padding: 20px 0;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 13px;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: #00bcd4;
+}
+
+td {
+  width: 290px;
+  padding: 20px 0;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 13px;
+  text-transform: uppercase;
+  color: #6f7b86;
+  border: 2px solid #6f7b86;
+}
