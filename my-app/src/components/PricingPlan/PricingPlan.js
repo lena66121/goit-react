@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import PricingItem from '../PricingItem/PricingItem';
+import PricingItem from './PricingItem/PricingItem';
 import styles from './PricingPlan.module.css';
 
 const PricingPlan = ({ items }) => (
